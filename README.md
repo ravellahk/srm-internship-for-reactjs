@@ -10,13 +10,19 @@ this repositery contains info about srm internship
 
 **Web development is maintaining the web site**
 
-#Day 3
+# Day 3
 
-##Today objectives :
+## Today objectives :
     1.introductions of html.
     2.instalations of any text editor
     3. types of elements in html5
     
  
- ###Introduction to html5 :
-   1.html
+ ### Introduction to html5 :
+    1.web page is divided in to 3 parts
+    2.different types of images
+      1.raster images(which can be taken by using camera or downlodes)
+      2.svg images.(from google)
+        1.select freevector icons url
+        2.search for a desired icon.
+        
