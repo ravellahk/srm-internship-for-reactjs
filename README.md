@@ -9,3 +9,14 @@ this repositery contains info about srm internship
 *Web design is nothing but certain of a website based on requirments*
 
 **Web development is maintaining the web site**
+
+#Day 3
+
+##Today objectives :
+    1.introductions of html.
+    2.instalations of any text editor
+    3. types of elements in html5
+    
+ 
+ ###Introduction to html5 :
+   1.html
